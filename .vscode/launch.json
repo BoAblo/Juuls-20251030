@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Sandbox_20251029_BAN",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox_20251029_BAN",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "breakOnRecordWrite": "None",
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            "tenant": "70a6c732-c9dd-41c3-9723-11821fa01d35",
+            "schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "Sandbox_020725_CFR",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox_020725_CFR",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "breakOnRecordWrite": "None",
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            "tenant": "70a6c732-c9dd-41c3-9723-11821fa01d35",
+            //"schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "Sandbox_20241106_BP",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox_20241106_BP",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "breakOnRecordWrite": "None",
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            "tenant": "70a6c732-c9dd-41c3-9723-11821fa01d35",
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}

@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="Juuls Basis">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1605493195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CST Deposit Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Deposit Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1605493195 - NamedType 405423609" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The item %1 must be of type Non-Inventory.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Varen %1 skal være af typen Ikke-Lagerførende."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Deposit Code - NamedType NonInventoryItemErrLbl</note>
+          <target>Varen %1 skal være af typen Ikke-Lagerførende.</target>
+        </trans-unit>
+        <trans-unit id="Table 1605493195 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Deposit Code - Field Code - Property Caption</note>
+          <target>Kode</target>
+        </trans-unit>
+        <trans-unit id="Table 1605493195 - Field 3440678574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deposit Item No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pant varenr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Deposit Code - Field Deposit Item No. - Property Caption</note>
+          <target>Pant varenr.</target>
+        </trans-unit>
+        <trans-unit id="Table 1605493195 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Deposit Code - Field Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 1605493195 - Field 3194161445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Posting Group</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kreditor bogføringsgruppe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Deposit Code - Field Vendor Posting Group - Property Caption</note>
+          <target>Kreditor bogføringsgruppe</target>
+        </trans-unit>
+        <trans-unit id="Table 3335291387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Districts</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Distrikter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Districts - Property Caption</note>
+          <target>Distrikter</target>
+        </trans-unit>
+        <trans-unit id="Table 3335291387 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Land"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Districts - Field Country - Property Caption</note>
+          <target>Land</target>
+        </trans-unit>
+        <trans-unit id="Table 3335291387 - Field 847710914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>District</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Distrikt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Districts - Field District - Property Caption</note>
+          <target>Distrikt</target>
+        </trans-unit>
+        <trans-unit id="Table 3335291387 - Field 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Region"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Districts - Field Region - Property Caption</note>
+          <target>Region</target>
+        </trans-unit>
+        <trans-unit id="Table 926993255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grape</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Grape - Property Caption</note>
+          <target>Drue</target>
+        </trans-unit>
+        <trans-unit id="Table 926993255 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Grape - Field Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 926993255 - Field 2585154307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grape</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Grape - Field Grape - Property Caption</note>
+          <target>Drue</target>
+        </trans-unit>
+        <trans-unit id="Table 3750477842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufactoring</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fremstilling"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Manufactoring - Property Caption</note>
+          <target>Fremstilling</target>
+        </trans-unit>
+        <trans-unit id="Table 3750477842 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Manufactoring - Field Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 3750477842 - Field 3545704126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufactoring</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fremstilling"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Manufactoring - Field Manufactoring - Property Caption</note>
+          <target>Fremstilling</target>
+        </trans-unit>
+        <trans-unit id="Table 454199956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CST Marketing</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Marketing - Property Caption</note>
+          <target>Markedsføring</target>
+        </trans-unit>
+        <trans-unit id="Table 454199956 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Marketing - Field Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 454199956 - Field 3597983632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Marketing </source>
+          <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Marketing - Field Marketing  - Property Caption</note>
+          <target>Markedsføring</target>
+        </trans-unit>
+        <trans-unit id="Table 4206350424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Producer</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Producent"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Producer - Property Caption</note>
+          <target>Producent</target>
+        </trans-unit>
+        <trans-unit id="Table 4206350424 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Producer - Field Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 4206350424 - Field 2047469860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Producer</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Producent"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Producer - Field Producer - Property Caption</note>
+          <target>Producent</target>
+        </trans-unit>
+        <trans-unit id="Table 1037324017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Type</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Produkt type"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Product Type - Property Caption</note>
+          <target>Produkt type</target>
+        </trans-unit>
+        <trans-unit id="Table 1037324017 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Product Type - Field Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Table 1037324017 - Field 3164211949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Type</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Produkt type"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Product Type - Field Product Type - Property Caption</note>
+          <target>Produkt type</target>
+        </trans-unit>
+        <trans-unit id="Table 2847110609 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regions</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Regioner"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Regions - Property Caption</note>
+          <target>Regioner</target>
+        </trans-unit>
+        <trans-unit id="Table 2847110609 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Land"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Regions - Field Country - Property Caption</note>
+          <target>Land</target>
+        </trans-unit>
+        <trans-unit id="Table 2847110609 - Field 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Region"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CST Regions - Field Region - Property Caption</note>
+          <target>Region</target>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Price - Change Log Entries</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgspris - ændringslog"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Property Caption</note>
+          <target>Salgspris - ændringslog</target>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 2491730758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date and time when this change log entry was created.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Date and Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 2491730758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dato og tidspunkt</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Date and Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the entry, as assigned from the specified number series when the entry was created.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 823559016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the field caption of the changed field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Field Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 823559016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Felttitel</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Field Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 4112877437 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the table containing the changed field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control ItemDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 4112877437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Beskrivelse</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control ItemDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 332802016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the table containing the changed field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control ItemNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Varenr.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 2432660905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value that the field had after a user made changes to the field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control New Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 2432660905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ny værdi</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control New Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 3205443024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value that the field had before a user made changes to the field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Old Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 3205443024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gammel værdi</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Old Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 3425031793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of change made to the field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control Type of Change - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the user who posted the entry, to be used, for example, in the change log.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1077922226 - Control 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bruger-id</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST - Sales Price Changelog - Control User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 587767126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CST Deposit Codes</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pant Koder"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Deposit Codes - Property Caption</note>
+          <target>Pant Koder</target>
+        </trans-unit>
+        <trans-unit id="Page 587767126 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Deposit Codes - Control Code - Property ToolTip</note>
+          <target>Kode</target>
+        </trans-unit>
+        <trans-unit id="Page 587767126 - Control 3440678574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Deposit Item No. field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pant varenr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Deposit Codes - Control Deposit Item No. - Property ToolTip</note>
+          <target>Pant varenr.</target>
+        </trans-unit>
+        <trans-unit id="Page 587767126 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Deposit Codes - Control Description - Property ToolTip</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Page 587767126 - Control 3194161445 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Posting Group field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kreditor bogføringsgruppe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Deposit Codes - Control Vendor Posting Group - Property ToolTip</note>
+          <target>Kreditor bogføringsgruppe</target>
+        </trans-unit>
+        <trans-unit id="Page 3335291387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Districts</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Distrikter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Districts - Property Caption</note>
+          <target>Distrikter</target>
+        </trans-unit>
+        <trans-unit id="Page 3335291387 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Districts - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3335291387 - Control 847710914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Districts - Control District - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3335291387 - Control 2241665020 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Districts - Control Region - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 580135954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grapes</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Druer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Grapes - Property Caption</note>
+          <target>Druer</target>
+        </trans-unit>
+        <trans-unit id="Page 580135954 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Grapes - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 580135954 - Control 2585154307 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Grapes - Control Grape - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3750477842 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufactoring</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fremstilling"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Manufactoring - Property Caption</note>
+          <target>Fremstilling</target>
+        </trans-unit>
+        <trans-unit id="Page 3750477842 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Manufactoring - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3750477842 - Control 3545704126 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Manufactoring - Control Manufactoring - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 454199956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CST Marketing</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Marketing - Property Caption</note>
+          <target>Markedsføring</target>
+        </trans-unit>
+        <trans-unit id="Page 454199956 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Marketing - Control Description - Property ToolTip</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Page 454199956 - Control 3597983632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Marketing field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Marketing - Control Marketing  - Property ToolTip</note>
+          <target>Markedsføring</target>
+        </trans-unit>
+        <trans-unit id="Page 4206350424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Producer</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Producent"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Producer - Property Caption</note>
+          <target>Producent</target>
+        </trans-unit>
+        <trans-unit id="Page 4206350424 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Producer - Control Description - Property ToolTip</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Page 4206350424 - Control 2047469860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Producer field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Producent"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Producer - Control Producer - Property ToolTip</note>
+          <target>Producent</target>
+        </trans-unit>
+        <trans-unit id="Page 1037324017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Type</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Produkt typer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Product Type - Property Caption</note>
+          <target>Produkt typer</target>
+        </trans-unit>
+        <trans-unit id="Page 1037324017 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Product Type - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1037324017 - Control 3164211949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Product Type - Control Product Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2847110609 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regions</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Regioner"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Regions - Property Caption</note>
+          <target>Regioner</target>
+        </trans-unit>
+        <trans-unit id="Page 2847110609 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Regions - Control Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2847110609 - Control 2241665020 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Regions - Control Region - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1394068149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consit Ad hoc report med layout</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Consit Ad hoc report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3853081811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consit Ad hoc report uden layout</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Consit Ad hoc report 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 2702642041" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ethanol Percentage</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Alkohol %"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType EthanolPercentageLbl</note>
+          <target>Alkohol %</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 2184357828" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gross Weight</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Bruttovægt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType GrossWeightLbl</note>
+          <target>Bruttovægt</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 3004971996" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commercial Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kommerciel beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2CommDescrLbl</note>
+          <target>Kommerciel beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 1918706930" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ethanol Percentage</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Alkohol styrke"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2EthanolPercLbl</note>
+          <target>Alkohol styrke</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 4292398095" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gross Weight (Total)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Bruttovægt (total)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2GrossWeightLbl</note>
+          <target>Bruttovægt (total)</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 466161641" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tariff No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="KN-kode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2KNCodeLbl</note>
+          <target>KN-kode</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 2570879796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Weight (Total)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Nettovægt (total)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2NetWeightLbl</note>
+          <target>Nettovægt (total)</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 2238983175" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No of Parcels</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal kolli"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2NoOfParcelsLbl</note>
+          <target>Antal kolli</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 3295802536" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity (Liter)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType Header2QuantityLbl</note>
+          <target>Mængde</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 3934122070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturanr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType InvoiceNoLbl</note>
+          <target>Fakturanr.</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 3120216939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Varebeskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType ItemDescriptionLbl</note>
+          <target>Varebeskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 3938104762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Varenr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType ItemNoLbl</note>
+          <target>Varenr.</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 3213305572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tariff No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Varekode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType ItemTariffNoLbl</note>
+          <target>Varekode</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 1166355680" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liter</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Liter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType LiterLbl</note>
+          <target>Liter</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 188004393" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No of Liters</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal liter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType NoOfLitersLbl</note>
+          <target>Antal liter</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 565628412" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parcels</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kolli"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType NoOfParcelsLbl</note>
+          <target>Kolli</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Side"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType PageCaptionLbl</note>
+          <target>Side</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 2174691427" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType QuantityLbl</note>
+          <target>Antal</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 1985428318" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Gross Weight</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde bruttovægt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType TotalGrossWeightLbl</note>
+          <target>Mængde bruttovægt</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 1116627177" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Net Weight</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde nettovægt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType TotalNetWeightLbl</note>
+          <target>Mængde nettovægt</target>
+        </trans-unit>
+        <trans-unit id="Report 2987139979 - NamedType 1142024779" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units per Parcel</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal pr. kolli"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - EMCS - NamedType UnitsPerParcelLbl</note>
+          <target>Antal pr. kolli</target>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Items In Stock</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Nye varer på lager"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - Property Caption</note>
+          <target>Nye varer på lager</target>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - NamedType CurrReportPageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - NamedType 3982372241" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - NamedType EndDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - NamedType 3016257557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory at End Date</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - NamedType InventoryEndDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - NamedType 3674764559" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Item In Stock</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - NamedType ReportNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - NamedType 2209068532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - NamedType StartDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - Control 1460902008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - Control EndDate_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - Control 1460902008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Slutdato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - Control EndDate_ - Property Caption</note>
+          <target>Slutdato</target>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - Control 114604389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - Control StartDate_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1391690521 - Control 114604389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Startdato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - New Item In Stock - Control StartDate_ - Property Caption</note>
+          <target>Startdato</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picking List</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Plukliste"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Property Caption</note>
+          <target>Plukliste</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Side"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - NamedType CurrReportPageNoCaptionLbl</note>
+          <target>Side</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - NamedType 689524896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>____________</source>
+          <note from="Developer" annotates="general" priority="2">DAN="____________"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - NamedType EmptyStringCaptionLbl</note>
+          <target>____________</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - NamedType 1345292481" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picking List</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Plukliste"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - NamedType PickingListCaptionLbl</note>
+          <target>Plukliste</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - NamedType 1811115882" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. Handled</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Hånderet antal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - NamedType QtyHandledCaptionLbl</note>
+          <target>Hånderet antal</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - NamedType 1637538090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Leveringsadresse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - NamedType ShiptoAddrCaptionLbl</note>
+          <target>Leveringsadresse</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - NamedType 79699711" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Forfaldsdato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - NamedType WhseActLineDueDateCaptionLbl</note>
+          <target>Forfaldsdato</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 624161470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Indstillinger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control Indstillinger - Property Caption</note>
+          <target>Indstillinger</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 3847509796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Breakbulk Filter</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Angiv nedbrydningsfilter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control Breakbulk_ - Property ToolTip</note>
+          <target>Angiv nedbrydningsfilter</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 3847509796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Breakbulk Filter</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Angiv nedbrydningsfilter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control Breakbulk_ - Property Caption</note>
+          <target>Angiv nedbrydningsfilter</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 2766950619 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Serial/Lot Number</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vis serie-/lotnummer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control LotSerialNo_ - Property ToolTip</note>
+          <target>Vis serie-/lotnummer</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 2766950619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Serial/Lot Number</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vis serie-/lotnummer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control LotSerialNo_ - Property Caption</note>
+          <target>Vis serie-/lotnummer</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 303159400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum up Lines</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Sammentælling af linjer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control SumUpLines_ - Property ToolTip</note>
+          <target>Sammentælling af linjer</target>
+        </trans-unit>
+        <trans-unit id="Report 1692808878 - Control 303159400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum up Lines</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Sammentælling af linjer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Picking List - Control SumUpLines_ - Property Caption</note>
+          <target>Sammentælling af linjer</target>
+        </trans-unit>
+        <trans-unit id="Report 4175980742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Reporting</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Afgiftsindberetning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST - Tax Reporting - Property Caption</note>
+          <target>Afgiftsindberetning</target>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import From Excel</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - NamedType 3865442186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import (%1)|%1</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - NamedType FileDialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - NamedType 2928972280" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select proper Excel file!</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - NamedType FileNameErr</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - NamedType 3777830815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Excel File</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - NamedType ImportTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - Control 2581507614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Parameters</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - Control FileInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the Excel File name to import.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Excel File</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - Control 3943603846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the sheet name from the Excel Sheet name to import.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - Control SheetNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3385090252 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import From Excel - Control SheetNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Sales From Magasin</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Indlæsning af salg fra Magasin"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Property Caption</note>
+          <target>Indlæsning af salg fra Magasin</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 2928972280" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a valid Excel file containing the right columns and data!</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Venligst vælg en valid excelfil med de rigtige kolonner og data!"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType FileNameErr</note>
+          <target>Venligst vælg en valid excelfil med de rigtige kolonner og data!</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 2330302906" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please set the Magasin Customer No. in the Sales &amp; Receivables Setup!</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Venligst indsæt kundenr. for Magasin i Opsætning af Salg"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType MagasinCustomerNoErr</note>
+          <target>Venligst indsæt kundenr. for Magasin i Opsætning af Salg</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 1753513791" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status  @2@@@@@@@@@@@@@@@@@@@</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Status @2@@@@@@@@@@@@@@@@@@@"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text002Lbl</note>
+          <target>Status @2@@@@@@@@@@@@@@@@@@@</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 3779895200" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyzing Data...</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Analyserer data...</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text003Lbl</note>
+          <target>"Analyserer data...</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 1297064451" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preparing Sales Documents...</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Forbereder salgsdokumenter...</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text004bLbl</note>
+          <target>"Forbereder salgsdokumenter...</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 3140410629" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating Sales Documents...</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opretter salgsdokumenter...</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text004Lbl</note>
+          <target>"Opretter salgsdokumenter...</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 2287756966" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order(s) has been successfully updated with %1 sales lines.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsordre er oprettet med %1 salgslinjer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text005Lbl</note>
+          <target>Salgsordre er oprettet med %1 salgslinjer</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 2165353731" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Magasin import from Excel - %1.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Magasin indlæsning fra Excel - %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text006Lbl</note>
+          <target>Magasin indlæsning fra Excel - %1</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - NamedType 576348388" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select and Import Excel File...</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vælg og indlæs Excelfil..."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - NamedType Text007Lbl</note>
+          <target>Vælg og indlæs Excelfil...</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 25111153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Import Options</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Indstillinger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control ExcelOptions - Property Caption</note>
+          <target>Indstillinger</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the Magasin imported records.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control Description - Property Caption</note>
+          <target>Beskrivelse</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 3578322712 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the Excel file to import!</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control ServerFileName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 3578322712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select and import Excel File...</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vælg og indlæs Excel fil"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control ServerFileName - Property Caption</note>
+          <target>Vælg og indlæs Excel fil</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 3943603846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the sheet name from the Excel Sheet name to import.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control SheetNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Excel fane"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control SheetNameField - Property Caption</note>
+          <target>Excel fane</target>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 1079582095 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to show developer messages during the import process.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control ShowDeveloperMessages - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 572646483 - Control 1079582095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Developer Messages</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vis udviklerbeskeder"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control ShowDeveloperMessages - Property Caption</note>
+          <target>Vis udviklerbeskeder</target>
+        </trans-unit>
+        <trans-unit id="Report 3060168200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>POS - VAT Correction</source>
+          <note from="Developer" annotates="general" priority="2">DAN="POS - Momskorrektion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report POS - VAT Correction - Property Caption</note>
+          <target>POS - Momskorrektion</target>
+        </trans-unit>
+        <trans-unit id="XmlPort 1367562759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Item References</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opdater varereferencer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Update Item Ref - Property Caption</note>
+          <target>Opdater varereferencer</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3221281793 - Control 3624688444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Communication (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-kommunikation"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Company Information - Control WebCommunication - Property Caption</note>
+          <target>Web-kommunikation</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3221281793 - Control 1801104200 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3469146285">
+          <source>Specifies the picture (web) that has been set up for the company, such as a company logo.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Company Information - Control PictureWeb - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1995973767 - Control 2462203486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>2. Salesperson</source>
+          <note from="Developer" annotates="general" priority="2">DAN="2. sælger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Customer Card Ext - Control Salesperson Code 2 - Property ToolTip</note>
+          <target>2. sælger</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1995973767 - Control 16332237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Email address of the 2. salesperson.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Email for 2. sælger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Customer Card Ext - Control SalesPerson2Email - Property ToolTip</note>
+          <target>Email for 2. sælger</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1995973767 - Control 16332237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>2. Salesperson Email</source>
+          <note from="Developer" annotates="general" priority="2">DAN="2. Sælger Email"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Customer Card Ext - Control SalesPerson2Email - Property Caption</note>
+          <target>2. Sælger Email</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1995973767 - Control 2571141211 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Email address of the salesperson.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Email for sælger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Customer Card Ext - Control SalesPersonEmail - Property ToolTip</note>
+          <target>Email for sælger</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1995973767 - Control 2571141211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Salesperson Email</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Sælger Email"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Customer Card Ext - Control SalesPersonEmail - Property Caption</note>
+          <target>Sælger Email</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Action 181845828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Create new Item in another Company</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Action SendToCompany - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Action 181845828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Send to Company</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Send til regnskab"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Action SendToCompany - Property Caption</note>
+          <target>Send til regnskab</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Action 181845828 - Method 1377591017 - NamedType 750880119" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1599863656">
+          <source>Copy Item Card to %1?</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kopier varekort til %1?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Action SendToCompany - Method OnAction - NamedType CopyItemYNLbl</note>
+          <target>Kopier varekort til %1?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Action 181845828 - Method 1377591017 - NamedType 1766038845" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1599863656">
+          <source>Item %1 is created (incl. Sales Price Lists) in %2.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vare %1 er oprettet (incl. salgspriser) i %2."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Action SendToCompany - Method OnAction - NamedType ItemCopiedLbl</note>
+          <target>Vare %1 er oprettet (incl. salgspriser) i %2.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Action 181845828 - Method 1377591017 - NamedType 2855833786" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1599863656">
+          <source>There has been created %1 Sales Price List(s) and %2 Item Refenence(s) in %3.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Der er oprettet %1 salgslistepris(er) og %2 varereference(r) i %3."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Action SendToCompany - Method OnAction - NamedType NotItemCopiedLbl</note>
+          <target>Der er oprettet %1 salgslistepris(er) og %2 varereference(r) i %3.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Action 181845828 - Method 1377591017 - NamedType 2571673033" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1599863656">
+          <source>Nothing has been created in %1</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Der er ikke oprettet noget i %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Action SendToCompany - Method OnAction - NamedType NotCreatedLbl</note>
+          <target>Der er ikke oprettet noget i %1</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 970199471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Deposit Code field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pantkode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Deposit Code - Property ToolTip</note>
+          <target>Pantkode</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 1852999720 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Allocated Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Allokeret vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Allocated Item - Property ToolTip</note>
+          <target>Allokeret vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3578501932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the GTIN (Kolli) field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="GTIN (Kolli)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control GTIN (Kolli) - Property ToolTip</note>
+          <target>GTIN (Kolli)</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 2675363943 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Age(Year) field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Alder (år)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Age(Year) - Property ToolTip</note>
+          <target>Alder (år)</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3145964927 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>ToolTip</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Alcohol%2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 1910931538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Best Before / Expires field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Bedst før/udløber"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Best Before / Expires - Property ToolTip</note>
+          <target>Bedst før/udløber</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 194406491 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Biodynamic field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Biodynamisk"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Biodynamic - Property ToolTip</note>
+          <target>Biodynamisk</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3858145839 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies how many units, such as pieces, boxes, or cans, of the item are in inventory.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control CS_Inventory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3047911148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies how many units of the item are inbound on purchase orders, meaning listed on outstanding purchase order lines.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control CS_Qty. on Purch. Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 1638917870 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies how many units of the item are allocated to sales orders, meaning listed on outstanding sales orders lines.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control CS_Qty. on Sales Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 694028418 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Discontinued Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Udgået vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Discontinued Item - Property ToolTip</note>
+          <target>Udgået vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3141239804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Inventory Allocation Engros field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Lagerplacering Engros"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Inventory Allocation Engros - Property ToolTip</note>
+          <target>Lagerplacering Engros</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3005965578 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Inventory Allocation Værn field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Lagerplacering Værn"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Inventory Allocation Værn - Property ToolTip</note>
+          <target>Lagerplacering Værn</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 940377800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Marketing field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Marketing - Property ToolTip</note>
+          <target>Markedsføring</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 866216987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Natural field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Naturvin"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Natural - Property ToolTip</note>
+          <target>Naturvin</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 753629990 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Organic Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Økologisk vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Organic Item - Property ToolTip</note>
+          <target>Økologisk vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3692136021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Own Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Egen vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Own Item - Property ToolTip</note>
+          <target>Egen vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 4164140246 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Sell Only in Store field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Må kun sælges i butik"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Sell Only in Store - Property ToolTip</note>
+          <target>Må kun sælges i butik</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3400366202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Vintage field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Årgang"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Vintage - Property ToolTip</note>
+          <target>Årgang</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 668791246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Geography, Grapes and Use</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Geografi, Druer og anvendelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Grapes - Property Caption</note>
+          <target>Geografi, Druer og anvendelse</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Country field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Land"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Country - Property ToolTip</note>
+          <target>Land</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 847710914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the District field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Distrikt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control District - Property ToolTip</note>
+          <target>Distrikt</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 2325401468 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Grape 1 field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Grape 1 - Property ToolTip</note>
+          <target>Drue 1</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 2963098085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Grape 2 field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Grape 2 - Property ToolTip</note>
+          <target>Drue 2</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3600794702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Grape 3 field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Grape 3 - Property ToolTip</note>
+          <target>Drue 3</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3309310507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Manufactured field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fremstillet på"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Manufactured - Property ToolTip</note>
+          <target>Fremstillet på</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 3164211949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Product Type field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Produkt type"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Product Type - Property ToolTip</note>
+          <target>Produkt type</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Control 2241665020 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Region field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Region"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Control Region - Property ToolTip</note>
+          <target>Region</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1599863656 - Change 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Producer</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Producent"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Card Ext - Change Description 2 - Property Caption</note>
+          <target>Producent</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Action 3813806385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Sales Price Changelog</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Action SalesPriceChangelog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Action 3813806385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Sales Price Changelog</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgspris - ændringslog"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Action SalesPriceChangelog - Property Caption</note>
+          <target>Salgspris - ændringslog</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Action 1367562759 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Update Item Ref</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Update Item Ref"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Action Update Item Ref - Property ToolTip</note>
+          <target>Update Item Ref</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Action 1367562759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Update Item Ref</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Update Item Ref"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Action Update Item Ref - Property Caption</note>
+          <target>Update Item Ref</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 2675363943 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Age(Year) field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Alder (år)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Age(Year) - Property ToolTip</note>
+          <target>Alder (år)</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 132907441 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>ToolTip</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Alcohol% - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 3400366202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Vintage field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Årgang"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Vintage - Property ToolTip</note>
+          <target>Årgang</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 194406491 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Biodynamic field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Biodynamisk"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Biodynamic - Property ToolTip</note>
+          <target>Biodynamisk</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 1856816140 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Country field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Land"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Country - Property ToolTip</note>
+          <target>Land</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 970199471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Deposit Code field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pantkode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Deposit Code - Property ToolTip</note>
+          <target>Pantkode</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 866216987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Natural field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Naturvin"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Natural - Property ToolTip</note>
+          <target>Naturvin</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 753629990 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Organic Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Økologisk vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Organic Item - Property ToolTip</note>
+          <target>Økologisk vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 3692136021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Own Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Egen vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Own Item - Property ToolTip</note>
+          <target>Egen vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1082832958 - Control 3164211949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the Product Type field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Produkt type"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item List Ext - Control Product Type - Property ToolTip</note>
+          <target>Produkt type</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 132907441 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>ToolTip</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control Alcohol% - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 3692136021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>Specifies the value of the Own Item field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Egen vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control Own Item - Property ToolTip</note>
+          <target>Egen vare</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 3400366202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>Specifies the value of the Vintage field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Årgang"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control Vintage - Property ToolTip</note>
+          <target>Årgang</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 2324365798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>Specifies the value of the 1ENGROS 1 field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control 1ENGROS 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 4086935270 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>Specifies the value of the 2ENGROS 2 field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control 2ENGROS 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 1090919558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>Specifies the value of the 3DETAIL field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control 3DETAIL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3611366053 - Control 970199471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1460081465">
+          <source>Specifies the value of the Deposit Code field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pantkode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Item Lookup - Control Deposit Code - Property ToolTip</note>
+          <target>Pantkode</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 651163964 - Control 2814799924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2618934728">
+          <source>Specifies the Bin Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Purch Cr.Memo Subf. - Control Bin Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 651163964 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2618934728">
+          <source>Specifies the Location Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Purch Cr.Memo Subf. - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 543795694 - Control 2814799924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2410131092">
+          <source>Specifies the Bin Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Purch. Inv. Subform - Control Bin Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 543795694 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2410131092">
+          <source>Specifies the Location Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Purch. Inv. Subform - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3196192584 - Control 2814799924 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1257057922">
+          <source>Specifies the Bin Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Sales Cr.Memo Subf. - Control Bin Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3196192584 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1257057922">
+          <source>Specifies the Location Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Sales Cr.Memo Subf. - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2306251579 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2557560783">
+          <source>Specifies the Location Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Posted Sales Credit Memos - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3342433257 - Action 2089781121 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2341972053">
+          <source>Delete the selected price line.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Slet den valgte pris linje."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Price List Line Review - Action JuulsDeletePriceline - Property ToolTip</note>
+          <target>Slet den valgte pris linje.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3342433257 - Action 2089781121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2341972053">
+          <source>Delete Price Line</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juuls Slet pris linje"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Price List Line Review - Action JuulsDeletePriceline - Property Caption</note>
+          <target>Juuls Slet pris linje</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3342433257 - Action 2089781121 - Method 1377591017 - NamedType 975585070" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3342433257">
+          <source>Are you sure you want to delete this price line?</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Er du helt sikker at denne linje skal slettes?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Price List Line Review - Action JuulsDeletePriceline - Method OnAction - NamedType Text1Qst</note>
+          <target>Er du helt sikker at denne linje skal slettes?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1547915626 - Control 1005239752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4048657685">
+          <source>Specifies the value of the Default Orderer - Empl. Dim. Code.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Default ordretaster - medarbejder dimeension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Purch. Inv. Ext. - Control Def. Orderer - Empl. Dim. Code - Property ToolTip</note>
+          <target>Default ordretaster - medarbejder dimeension.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2061072225 - Control 1005239752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Specifies the value of the Default Orderer - Empl. Dim. Code.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Default ordretaster - medarbejder dimeension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Purch. Order Ext. - Control Def. Orderer - Empl. Dim. Code - Property ToolTip</note>
+          <target>Default ordretaster - medarbejder dimeension.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1414272050 - Control 1005239752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2344297010">
+          <source>Specifies the value of the Default Orderer - Empl. Dim. Code.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Default ordretaster - medarbejder dimeension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Purch. Receipts Ext. - Control Def. Orderer - Empl. Dim. Code - Property ToolTip</note>
+          <target>Default ordretaster - medarbejder dimeension.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 234424648 - Control 1005239752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>Specifies the value of the Default Orderer - Empl. Dim. Code.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Default ordretaster - medarbejder dimeension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Inv. Ext. - Control Def. Orderer - Empl. Dim. Code - Property ToolTip</note>
+          <target>Default ordretaster - medarbejder dimeension.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2473095238 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoice Ext. - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2473095238 - Control 1041112893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Printed by</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoice Ext. - Control Printed by - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4103904956 - Action 3605532011 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 561208485">
+          <source>POS - VAT Correction</source>
+          <note from="Developer" annotates="general" priority="2">DAN="POS - Momskorrektion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoice List Ext. - Action POSVATCorrection - Property ToolTip</note>
+          <target>POS - Momskorrektion</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 4103904956 - Action 3605532011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 561208485">
+          <source>POS - VAT Correction</source>
+          <note from="Developer" annotates="general" priority="2">DAN="POS - Momskorrektion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoice List Ext. - Action POSVATCorrection - Property Caption</note>
+          <target>POS - Momskorrektion</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 4103904956 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 561208485">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoice List Ext. - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4103904956 - Control 1041112893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 561208485">
+          <source>Printed by</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoice List Ext. - Control Printed by - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 999966202 - Action 3946903708 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>EMCS</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoices - Action EMCS - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 999966202 - Action 3946903708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>EMCS</source>
+          <note from="Developer" annotates="general" priority="2">DAN="EMCS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Invoices - Action EMCS - Property Caption</note>
+          <target>EMCS</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1181780707 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1330661702">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales List Ext. - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1181780707 - Control 1041112893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1330661702">
+          <source>Printed by</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales List Ext. - Control Printed by - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3235415791 - Action 4291795451 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Plukseddel</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order Ext. - Action SalesDocumentTest - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3235415791 - Action 4291795451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Picking Note</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Plukseddel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order Ext. - Action SalesDocumentTest - Property Caption</note>
+          <target>Plukseddel</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3235415791 - Control 1005239752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Default Orderer - Empl. Dim. Code.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Default ordretaster - medarbejder dimension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order Ext. - Control Def. Orderer - Empl. Dim. Code - Property ToolTip</note>
+          <target>Default ordretaster - medarbejder dimension.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3235415791 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order Ext. - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3235415791 - Control 1041112893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Printed by</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order Ext. - Control Printed by - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4181214828 - Control 1668868500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order List - Control Printed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4181214828 - Control 1041112893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Printed by</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Order List - Control Printed by - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 1477301829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Magasin Import</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control MagasinImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 291805251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies the Customer No. for Magasin.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control CST Magasin Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 2476068702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies the default release status for Magasin sales documents.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control CST Magasin Deflt. Rel. Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 2827053625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies whether the Magasin import should delete the bottle deposit lines.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control CST Magasin Imp Delete Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 1713641923 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies the e-mail address for the Magasin inbox.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control CST Magasin Inbox E-mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 2655950785 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies the password for the Magasin inbox e-mail.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control CST Magasin Inbox Password - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2711407349 - Control 990744671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies whether the Magasin sales documents should have prices set to include VAT.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Setup - Control CST Magasin Set Prices InclVAT - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3295277801 - Control 1005239752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3373253667">
+          <source>Specifies the value of the Default Orderer - Empl. Dim. Code.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Default ordretaster - medarbejder dimeension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Sales Shpmt. Ext. - Control Def. Orderer - Empl. Dim. Code - Property ToolTip</note>
+          <target>Default ordretaster - medarbejder dimeension.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1980002235 - Control 1650118938 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 615552341">
+          <source>Specifies the Location Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Unhandled Posted Sales Inv - Control Amount Including VAT - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1980002235 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 615552341">
+          <source>Specifies the Location Code for the item in the warehouse.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST Unhandled Posted Sales Inv - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2509350557 - Control 1303516869 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 337631938">
+          <source>Specifies the value of the Employee Dimension Code field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Medarbejder dimension kode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CST UserSetup Ext - Control CST Employee Dimension Code - Property ToolTip</note>
+          <target>Medarbejder dimension kode</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2055443391 - Control 2132869144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 295059669">
+          <source>Specifies the value of the CST PriceList Group field.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CSTPriceWorksSheetExt - Control CST PriceList Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2503000375 - Field 410940989 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Specifies the customer's market type to link business transactions to.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST - Item Ledger Entry - Field Customer Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2503000375 - Field 410940989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Customer Posting Group</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Debitorbogføringsgruppe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST - Item Ledger Entry - Field Customer Posting Group - Property Caption</note>
+          <target>Debitorbogføringsgruppe</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2661650338 - Field 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 467645625">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Leverandørnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST - Value Entry - Field Vendor No. - Property ToolTip</note>
+          <target>Leverandørnr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2661650338 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 467645625">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Leverandørnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST - Value Entry - Field Vendor No. - Property Caption</note>
+          <target>Leverandørnr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2594996037 - Field 2137247572 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1682139193">
+          <source>IBAN (EURO)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="IBAN (EURO)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Bank Account - Field IBAN (EURO) - Property ToolTip</note>
+          <target>IBAN (EURO)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2594996037 - Field 2137247572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1682139193">
+          <source>IBAN (EURO)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="IBAN (EURO)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Bank Account - Field IBAN (EURO) - Property Caption</note>
+          <target>IBAN (EURO)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 980704528 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Doc. Picture</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Dok. Billede"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field DocPicture - Property ToolTip</note>
+          <target>Dok. Billede</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 980704528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Doc. Picture</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Dok. Billede"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field DocPicture - Property Caption</note>
+          <target>Dok. Billede</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 4126904756 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Email (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-mail"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field E-Mail (Web) - Property ToolTip</note>
+          <target>Web-mail</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 4126904756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Email (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-mail"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field E-Mail (Web) - Property Caption</note>
+          <target>Web-mail</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 3614932339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>ECO-Text</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Øko-tekst"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field ECO-Text - Property ToolTip</note>
+          <target>Øko-tekst</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 3614932339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>ECO-Text</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Øko-tekst"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field ECO-Text - Property Caption</note>
+          <target>Øko-tekst</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 4033764023 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Home Page (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-hjemmeside"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field Home Page (Web) - Property ToolTip</note>
+          <target>Web-hjemmeside</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 4033764023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Home Page (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-hjemmeside"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field Home Page (Web) - Property Caption</note>
+          <target>Web-hjemmeside</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 2137247572 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>IBAN (EURO)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="IBAN (EURO)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field IBAN (EURO) - Property ToolTip</note>
+          <target>IBAN (EURO)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 2137247572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>IBAN (EURO)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="IBAN (EURO)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field IBAN (EURO) - Property Caption</note>
+          <target>IBAN (EURO)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 3376319758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Phone No. (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-telefonnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field Phone No. (web) - Property ToolTip</note>
+          <target>Web-telefonnr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 3376319758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Phone No. (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-telefonnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field Phone No. (web) - Property Caption</note>
+          <target>Web-telefonnr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 2217941383 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Picture (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Billede (detail)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field Picture (Web) - Property ToolTip</note>
+          <target>Billede (detail)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3221281793 - Field 2217941383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3469146285">
+          <source>Picture (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Billede (detail)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Company Information - Field Picture (Web) - Property Caption</note>
+          <target>Billede (detail)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2695583116 - Field 4205578238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Company Information (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-virksomhedsoplysninger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Customer - Field Company Information (Web) - Property ToolTip</note>
+          <target>Web-virksomhedsoplysninger</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2695583116 - Field 4205578238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Company Information (Web)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Web-virksomhedsoplysninger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Customer - Field Company Information (Web) - Property Caption</note>
+          <target>Web-virksomhedsoplysninger</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2695583116 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Sælgerkode 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Customer - Field Salesperson Code 2 - Property Caption</note>
+          <target>Sælgerkode 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 2324365798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>1ENGROS 1</source>
+          <note from="Developer" annotates="general" priority="2">DAN="1ENGROS 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field 1ENGROS 1 - Property Caption</note>
+          <target>1ENGROS 1</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 4086935270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>2ENGROS 2</source>
+          <note from="Developer" annotates="general" priority="2">DAN="2ENGROS 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field 2ENGROS 2 - Property Caption</note>
+          <target>2ENGROS 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 1090919558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>3DETAIL</source>
+          <note from="Developer" annotates="general" priority="2">DAN="3DETAIL"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field 3DETAIL - Property Caption</note>
+          <target>3DETAIL</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 2675363943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Age(Year)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Alder (år)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Age(Year) - Property Caption</note>
+          <target>Alder (år)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 1852999720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Allocated Item</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Allokeret vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Allocated Item - Property Caption</note>
+          <target>Allokeret vare</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 1910931538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Best Before / Expires</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Bedst før/udløber"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Best Before / Expires - Property Caption</note>
+          <target>Bedst før/udløber</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 194406491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Biodynamic</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Biodynamisk"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Biodynamic - Property Caption</note>
+          <target>Biodynamisk</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Land"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Country - Property Caption</note>
+          <target>Land</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 970199471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Deposit Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pantkode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Deposit Code - Property Caption</note>
+          <target>Pantkode</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 694028418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Discontinued Item</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Udgået vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Discontinued Item - Property Caption</note>
+          <target>Udgået vare</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 847710914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>District</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Distrikt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field District - Property Caption</note>
+          <target>Distrikt</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 2325401468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Grape 1</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Grape 1 - Property Caption</note>
+          <target>Drue 1</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 2963098085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Grape 2</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Grape 2 - Property Caption</note>
+          <target>Drue 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3600794702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Grape 3</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Drue 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Grape 3 - Property Caption</note>
+          <target>Drue 3</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3578501932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>GTIN (Kolli)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="GTIN (Kolli)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field GTIN (Kolli) - Property Caption</note>
+          <target>GTIN (Kolli)</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3141239804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Inventory Allocation Engros</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Lagerplacering Engros"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Inventory Allocation Engros - Property Caption</note>
+          <target>Lagerplacering Engros</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3005965578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Inventory Allocation Værn</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Lagerplacering Værn"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Inventory Allocation Værn - Property Caption</note>
+          <target>Lagerplacering Værn</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3309310507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Manufactured</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fremstillet på"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Manufactured - Property Caption</note>
+          <target>Fremstillet på</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 940377800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Marketing</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Marketing - Property Caption</note>
+          <target>Markedsføring</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 866216987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Natural</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Naturvin"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Natural - Property Caption</note>
+          <target>Naturvin</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 753629990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Organic Item</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Økologisk vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Organic Item - Property Caption</note>
+          <target>Økologisk vare</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3692136021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Own Item</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Egen vare"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Own Item - Property Caption</note>
+          <target>Egen vare</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 2047469860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Producer</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Producent"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Producer - Property Caption</note>
+          <target>Producent</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3164211949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Product Type</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Produkt type"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Product Type - Property Caption</note>
+          <target>Produkt type</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Region"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Region - Property Caption</note>
+          <target>Region</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 4164140246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Sell Only in Store</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Må kun sælges i butik"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Sell Only in Store - Property Caption</note>
+          <target>Må kun sælges i butik</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3887616435 - Field 3400366202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Vintage</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Årgang"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Item - Field Vintage - Property Caption</note>
+          <target>Årgang</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2057483232 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271228953">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Purch. Cr. Memo Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3651406083 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Purch. Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 685538122 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Purch. Inv. Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2632268806 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Purch. Rcpt. Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4026005675 - Field 2047834618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Deposit Line No. Ref.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pantlinje referencenr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Purchase Line - Field Deposit Line No. Ref. - Property Caption</note>
+          <target>Pantlinje referencenr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 4026005675 - Field 330936976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Has Deposit Line</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Har pantlinje"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Purchase Line - Field Has Deposit Line - Property Caption</note>
+          <target>Har pantlinje</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 650150498 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Cr. Memo Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1645963573 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Ordretaster - medarbejder dimension."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+          <target>Ordretaster - medarbejder dimension.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1645963573 - Field 3060168200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>POS - VAT Correction</source>
+          <note from="Developer" annotates="general" priority="2">DAN="POS - Moms korrektion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Header - Field POS - VAT Correction - Property Caption</note>
+          <target>POS - Moms korrektion</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1645963573 - Field 1668868500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Printed</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Udskrevet"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Header - Field Printed - Property Caption</note>
+          <target>Udskrevet</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1645963573 - Field 1041112893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Printed by</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Udskrevet af"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Header - Field Printed by - Property Caption</note>
+          <target>Udskrevet af</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1921594888 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Inv. Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3334828174 - Field 2047834618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Deposit Line No. Ref.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Pantlinje referencenr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Line - Field Deposit Line No. Ref. - Property Caption</note>
+          <target>Pantlinje referencenr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3334828174 - Field 3060168200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>POS - VAT Correction</source>
+          <note from="Developer" annotates="general" priority="2">DAN="POS - Moms korrektion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Line - Field POS - VAT Correction - Property Caption</note>
+          <target>POS - Moms korrektion</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 291805251 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>The customer number for the Magasin customer.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 291805251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Magasin Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 2476068702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>The default release status for Magasin sales documents.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Deflt. Rel. Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 2476068702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Magasin Default Release Status</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Deflt. Rel. Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 2827053625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Indicates whether the Magasin import should delete the bottle deposit lines.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Imp Delete Deposit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 2827053625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Magasin Imp. Delete Bottle Deposit</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Imp Delete Deposit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 1713641923 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>The e-mail address for the Magasin inbox.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Inbox E-mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 1713641923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Magasin Inbox E-mail</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Inbox E-mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 2655950785 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>The password for the Magasin inbox e-mail.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Inbox Password - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 2655950785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Magasin Inbox Password</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Inbox Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 990744671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Indicates whether the Magasin sales documents should have prices set to include VAT.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Set Prices InclVAT - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2711407349 - Field 990744671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Magasin Set Prices Incl. VAT</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Setup - Field CST Magasin Set Prices InclVAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2068968363 - Field 1005239752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Default Orderer - Employee Dim. Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST Sales Shpmt Header - Field Def. Orderer - Empl. Dim. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 431347310 - Field 1303516869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Employee Dimension Code</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CST UserSetup - Field CST Employee Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 714803323 - Field 1147602378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2977964999">
+          <source>Price List Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juuls Prisliste Gruppe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSTPriceWorksheetLine - Field CST Price List Code - Property ToolTip</note>
+          <target>Juuls Prisliste Gruppe</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 714803323 - Field 1147602378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2977964999">
+          <source>Juuls Price List Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juuls Prisliste Gruppe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CSTPriceWorksheetLine - Field CST Price List Code - Property Caption</note>
+          <target>Juuls Prisliste Gruppe</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1014838384 - NamedType 4268376744" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1014838384">
+          <source>Quantity in liters</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde i liter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Purchase - Order - NamedType NoOfLitreLbl</note>
+          <target>Mængde i liter</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1014838384 - ReportLayout 2403919666 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 146219450">
+          <source>Juul´s Engros Purchase Order is a customized layout for Juul´s Engros</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Purchase - Order - ReportLayout CSTPurchaseOrder.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1014838384 - ReportLayout 2403919666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 146219450">
+          <source>Juul´s Engros Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros købsordre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Purchase - Order - ReportLayout CSTPurchaseOrder.rdlc - Property Caption</note>
+          <target>Juul´s Engros købsordre</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - NamedType 1731278847" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1177571751">
+          <source>Your Rekv. No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Deres rekv. nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - NamedType NewExternalDocumentNoLbl</note>
+          <target>Deres rekv. nr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - NamedType 1740043670" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1177571751">
+          <source>Tracking No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Trackingnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - NamedType NewPackageTrackingNoLbl</note>
+          <target>Trackingnr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - NamedType 1275186765" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1177571751">
+          <source>Our Reference</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vores reference"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - NamedType NewSalespersonLbl</note>
+          <target>Vores reference</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - NamedType 2858417000" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1177571751">
+          <source>Your Reference</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Deres reference"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - NamedType NewYourReferenceLbl</note>
+          <target>Deres reference</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - NamedType 4268376744" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1177571751">
+          <source>Quantity in liters</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde i liter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - NamedType NoOfLitreLbl</note>
+          <target>Mængde i liter</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - ReportLayout 880372794 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2043161662">
+          <source>Juul´s Engros Sales Order Conf. is a customized layout for Juul´s Engros.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - ReportLayout JuulsSalesOrderConfDiffLogo.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1177571751 - ReportLayout 880372794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2043161662">
+          <source>Juul´s Engros Sales Order Conf. - Diff. Logo</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros Ordrebekræftelse - Diff. Logo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Order Conf. - ReportLayout JuulsSalesOrderConfDiffLogo.rdlc - Property Caption</note>
+          <target>Juul´s Engros Ordrebekræftelse - Diff. Logo</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1425646819 - NamedType 3508561102" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1425646819">
+          <source>Mail</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mailadresse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Shipment - NamedType Customer_EMail_Lbl</note>
+          <target>Mailadresse</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1425646819 - NamedType 4275390677" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1425646819">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Telefonnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Shipment - NamedType Customer_PhoneNo_Lbl</note>
+          <target>Telefonnr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1425646819 - ReportLayout 3683266344 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 168188058">
+          <source>Juul´s Engros Sales - Shipment is a customized layout for Juul´s Engros.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Shipment - ReportLayout JuulsSalesShipmentDiffLogo.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1425646819 - ReportLayout 3683266344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 168188058">
+          <source>Juul´s Engros Sales Shipment - Diff. Logo</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros leverance - Diff. Logo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales - Shipment - ReportLayout JuulsSalesShipmentDiffLogo.rdlc - Property Caption</note>
+          <target>Juul´s Engros leverance - Diff. Logo</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - NamedType 1731278847" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3440916611">
+          <source>Your Rekv. No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Deres rekv. nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - NamedType NewExternalDocumentNoLbl</note>
+          <target>Deres rekv. nr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - NamedType 1740043670" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3440916611">
+          <source>Tracking No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Trackingnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - NamedType NewPackageTrackingNoLbl</note>
+          <target>Trackingnr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - NamedType 1275186765" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3440916611">
+          <source>Our Reference</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vores reference"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - NamedType NewSalespersonLbl</note>
+          <target>Vores reference</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - NamedType 2858417000" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3440916611">
+          <source>Your Reference</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Deres reference"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - NamedType NewYourReferenceLbl</note>
+          <target>Deres reference</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - NamedType 4268376744" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3440916611">
+          <source>Quantity in liters</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde i liter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - NamedType NoOfLitreLbl</note>
+          <target>Mængde i liter</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - ReportLayout 3209896941 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2400634003">
+          <source>Juul´s Engros Sales Cr. Memo is a customized layout for Juul´s Engros</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - ReportLayout JuulsSalesCreditMemoDiffLogo.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3440916611 - ReportLayout 3209896941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2400634003">
+          <source>Juul´s Engros Sales Cr. Memo - Diff. Logo</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros salgskreditnota - Diff. Logo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Cr. Memo - ReportLayout JuulsSalesCreditMemoDiffLogo.rdlc - Property Caption</note>
+          <target>Juul´s Engros salgskreditnota - Diff. Logo</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2481210868 - ReportLayout 756601757 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 1610209112">
+          <source>Juul´s Engros Sales Document - Test is a customized layout for Juul´s Engros</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Document - Test - ReportLayout JuulsSalesDocumentTest.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2481210868 - ReportLayout 756601757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 1610209112">
+          <source>Juul´s Engros Sales Document - Test</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros - Plukseddel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Document - Test - ReportLayout JuulsSalesDocumentTest.rdlc - Property Caption</note>
+          <target>Juul´s Engros - Plukseddel</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 1149205372" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>If your bank supports FIK (Danish bank standard), then use the following information:</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Hvis banken understøtter FIK (dansk bankstandard), skal du bruge følgende oplysninger:"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType DocumentReferenceCaptionLbl</note>
+          <target>Hvis banken understøtter FIK (dansk bankstandard), skal du bruge følgende oplysninger:</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 1731278847" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Your Rekv. No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Deres rekv. nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType NewExternalDocumentNoLbl</note>
+          <target>Deres rekv. nr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 1740043670" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Tracking No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Trackingnr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType NewPackageTrackingNoLbl</note>
+          <target>Trackingnr.</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 1275186765" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Our Reference</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vores reference"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType NewSalespersonLbl</note>
+          <target>Vores reference</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 2858417000" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Your Reference</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Deres reference"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType NewYourReferenceLbl</note>
+          <target>Deres reference</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 4268376744" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Quantity in liters</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Mængde i liter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType NoOfLitreLbl</note>
+          <target>Mængde i liter</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 1396233078" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Payment ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="FIK-kode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType PaymentID_Lbl</note>
+          <target>FIK-kode</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 2564152458" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Payment via Payment Service</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Trækkes via betalingsservice"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType PaymentTxt1_Lbl</note>
+          <target>Trækkes via betalingsservice</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - NamedType 2238057935" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 2194524335">
+          <source>Payment via juuls.dk</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Betalt via juuls.dk"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - NamedType PaymentTxt2_Lbl</note>
+          <target>Betalt via juuls.dk</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - ReportLayout 1260505983 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Juul´s Engros Sales Invoice is a customized layout for Juul´s Engros</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - ReportLayout JuulsSalesInvoiceDiffLogo.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 2194524335 - ReportLayout 1260505983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Juul´s Engros Sales Invoice - Diff. Logo</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros salgsfaktura - Diff. Logo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Sales Invoice - ReportLayout JuulsSalesInvoiceDiffLogo.rdlc - Property Caption</note>
+          <target>Juul´s Engros salgsfaktura - Diff. Logo</target>
+        </trans-unit>
+        <trans-unit id="ReportExtension 671707011 - ReportLayout 3187556047 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 871204514">
+          <source>Juul´s Engros Statment is a customized layout for Juul´s Engros.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Statement - ReportLayout JuulsEngrosStatement.rdlc - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 671707011 - ReportLayout 3187556047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 871204514">
+          <source>Juul´s Engros Statment</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Juul´s Engros kontoudtog"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension CST Statement - ReportLayout JuulsEngrosStatement.rdlc - Property Caption</note>
+          <target>Juul´s Engros kontoudtog</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

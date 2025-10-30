@@ -1,0 +1,64 @@
+{
+  "id": "c7786b67-4c67-4273-9598-763eb81d91cb",
+  "name": "Juuls Basis",
+  "publisher": "Consit",
+  "version": "25.0.0.116",
+  "runtime": "14.0",
+  "target": "Cloud",
+  "application": "25.0.0.0",
+  "platform": "27.0.41126.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "TRANSLATIONFILE",
+    "NOIMPLICITWITH"
+  ],
+  "dependencies": [
+    {
+      "id": "644f7e5b-a81c-408a-aaa2-766e655a80a3",
+      "name": "Payment and Reconciliation Formats (DK)",
+      "version": "25.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "1dafd1ac-6218-4a6e-9bd7-3dec0f14a072",
+      "name": "Continia Payment Management (DK)",
+      "version": "25.0.0.195195",
+      "publisher": "Continia Software"
+    },
+    {
+      "id": "14340ba6-5934-4145-8e14-dbf1846fef80",
+      "name": "Continia Payment Management",
+      "version": "25.0.0.195195",
+      "publisher": "Continia Software"
+    },
+    {
+      "id": "f4b69b55-c90d-4937-8f53-2742898fa948",
+      "name": "Continia Document Output",
+      "version": "25.1.0.266504",
+      "publisher": "Continia Software"
+    },
+    {
+      "id": "ac762be1-e90f-4a72-b519-612a5e3ddc2e",
+      "name": "OIOUBL",
+      "version": "25.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "ed609699-79da-4258-a71a-c75c5e66705b",
+      "name": "Item Duty",
+      "version": "25.2.27999.20",
+      "publisher": "Consit"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ]
+}

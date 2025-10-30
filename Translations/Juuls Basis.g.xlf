@@ -193,6 +193,16 @@
           <note from="Developer" annotates="general" priority="2">%1 = No. of Decimals</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CST Create Sales Docs. Magasin - NamedType NoOfDecimalsLbl</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2843706126 - NamedType 2950887036" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No. must be set before running this functionality!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CST Pre-Selected Price Mgt. - NamedType NoItemErrMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2843706126 - NamedType 4251349306" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No pre-selected price lines found!\Please set up pre-selected price lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CST Pre-Selected Price Mgt. - NamedType NoPriceLinesFoundMsg</note>
+        </trans-unit>
         <trans-unit id="Page 1077922226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Sales Price - Change Log Entries</source>
           <note from="Developer" annotates="general" priority="2">DAN="Salgspris - ændringslog"</note>

@@ -1,3 +1,6 @@
+/// <summary>
+/// Page CST - Sales Price Changelog (ID 50020).
+/// </summary>
 page 50020 "CST - Sales Price Changelog"
 {
     ApplicationArea = Basic, Suite;
@@ -5,7 +8,7 @@ page 50020 "CST - Sales Price Changelog"
     Editable = false;
     PageType = List;
     SourceTable = "Change Log Entry";
-    SourceTableView = where("Field Log Entry Feature"=filter("Change Log"|All), "Table No."=const(7001));
+    SourceTableView = where("Field Log Entry Feature" = filter("Change Log" | All), "Table No." = const(7001));
     UsageCategory = Lists;
 
     layout
@@ -79,17 +82,20 @@ page 50020 "CST - Sales Price Changelog"
             }
         }
     }
-    procedure FindItemNo(PrimaryKeyField1Value: Text[50]; PrimaryKeyField2Value: Text[50]): Code[20]var
+    procedure FindItemNo(PrimaryKeyField1Value: Text[50]; PrimaryKeyField2Value: Text[50]): Code[20]
+    var
         PriceListLine: Record "Price List Line";
         LineNo: Integer;
     begin
         Evaluate(LineNo, PrimaryKeyField2Value);
         PriceListLine.setrange("Price List Code", PrimaryKeyField1Value);
         PriceListLine.setrange("Line No.", LineNo);
-        IF PriceListLine.FindFirst()then exit(PriceListLine."Asset No.");
+        IF PriceListLine.FindFirst() then exit(PriceListLine."Asset No.");
         exit('');
     end;
-    procedure FindItemDescription(PrimaryKeyField1Value: Text[50]; PrimaryKeyField2Value: Text[50]): Text[100]var
+
+    procedure FindItemDescription(PrimaryKeyField1Value: Text[50]; PrimaryKeyField2Value: Text[50]): Text[100]
+    var
         PriceListLine: Record "Price List Line";
         Item: Record Item;
         LineNo: Integer;
@@ -97,7 +103,7 @@ page 50020 "CST - Sales Price Changelog"
         Evaluate(LineNo, PrimaryKeyField2Value);
         PriceListLine.setrange("Price List Code", PrimaryKeyField1Value);
         PriceListLine.setrange("Line No.", LineNo);
-        IF PriceListLine.FindFirst()then IF Item.get(PriceListLine."Asset No.")then exit(Item.Description);
+        IF PriceListLine.FindFirst() then IF Item.get(PriceListLine."Asset No.") then exit(Item.Description);
         Exit('');
     end;
 }

@@ -143,6 +143,51 @@
           <note from="Developer" annotates="general" priority="2">DAN="Region"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CST Regions - Field Region - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3508240878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pre-Selected Price Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - NamedType 279208610" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Masterdata card found for %1 %2.\Please correct the data before proceeding!</source>
+          <note from="Developer" annotates="general" priority="2">Parameters are %1 = Source Type (e.g. Customer) and %2 = Source No. (e.g. 10000)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - NamedType MasterDataErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - NamedType 20391969" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only Customer, Customer Price Group and Vendor are supported in this version!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - NamedType SourceTypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - Field 1737091078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price List Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Field Price List Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - Field 905256278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Field Source Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3508240878 - Field 1753214751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CSTPreSelectedPriceLines - Field Source Type - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2846691309 - NamedType 3121800214" size-unit="char" translate="yes" xml:space="preserve">
           <source>&lt;Precision,2&gt;&lt;Sign&gt;&lt;Integer Thousand&gt;&lt;Decimals,%1&gt;</source>
           <note from="Developer" annotates="general" priority="2">%1 = No. of Decimals</note>
@@ -322,6 +367,41 @@
           <source>Specifies the value of the Marketing field.</source>
           <note from="Developer" annotates="general" priority="2">DAN="Markedsføring"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CST Marketing - Control Marketing  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pre-Selected Price Lines</source>
+          <note from="Developer" annotates="general" priority="2">Lists pre-selected price lines for customers, customer price groups or vendors.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Control 1090351696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates whether the pre-selected price line is active.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Control Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the item to which the price line applies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Control 1737091078 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the price list to which the pre-selected price line belongs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Control Price List Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Control 905256278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source group of the price line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Control Source Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Control 1882905478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer, customer price group, or vendor to which the price line applies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Control Source No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1544360140 - Control 1753214751 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the price line is assigned to a customer, customer price group, or vendor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CST Pre-Selected Price List - Control Source Type - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 4206350424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Producer</source>
@@ -752,6 +832,26 @@
           <source>Show Developer Messages</source>
           <note from="Developer" annotates="general" priority="2">DAN="Vis udviklerbeskeder"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Report CST Import Sales From Magasin - Control ShowDeveloperMessages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4290778898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Juuls Item GTIN Label</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Juuls Item GTIN Label - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4290778898 - NamedType 2831727442" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No VAT percentage found for domestic normal VAT. Please set up VAT Posting Setup correctly before proceeding.</source>
+          <note from="Developer" annotates="general" priority="2">Error message when no VAT Posting Setup is found.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Juuls Item GTIN Label - NamedType NoVATPostingSetupFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Report 4290778898 - NamedType 1511011487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No VAT percentage found for domestic normal VAT. Do you want to proceed?</source>
+          <note from="Developer" annotates="general" priority="2">Confirmation message when no VAT Posting Setup is found.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Juuls Item GTIN Label - NamedType NoVATPostingSetupFoundQst</note>
+        </trans-unit>
+        <trans-unit id="Report 4290778898 - ReportDataItem 1554554962 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CST Juuls Item GTIN Label - ReportDataItem Items - Property RequestFilterHeading</note>
         </trans-unit>
         <trans-unit id="Report 3060168200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>POS - VAT Correction</source>

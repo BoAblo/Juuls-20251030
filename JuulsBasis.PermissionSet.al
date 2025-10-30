@@ -40,5 +40,11 @@ permissionset 50000 JuulsBasis
         report "POS - VAT Correction" = X,
         report "Consit Ad hoc report" = X,
         report "CST - New Item In Stock" = X,
-        page "CST - Sales Price Changelog" = X;
+        page "CST - Sales Price Changelog" = X,
+        tabledata CSTPreSelectedPriceLines = RIMD,
+        table CSTPreSelectedPriceLines = X,
+        report "Consit Ad hoc report 2" = X,
+        report "CST Juuls Item GTIN Label" = X,
+        xmlport "Update Item Ref" = X,
+        page "CST Pre-Selected Price List" = X;
 }
